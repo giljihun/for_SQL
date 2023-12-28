@@ -49,13 +49,13 @@ $ mysql.server start
 ~~~
 $ mysql -u root -p
 ~~~
-<img src="image.png" width="80%">
+<img src="usingIMG/image.png" width="80%">
 
 
 위 사진처럼 뜨면 완료!
 **CHEERS!**
 
-![Alt text](image-1.png)
+![Alt text](/usingIMG/image-1.png)
 
 ESCAPE 하는 법 : \q 
 
@@ -64,3 +64,4 @@ ESCAPE 하는 법 : \q
 # 목차 
 
 - [데이터베이스 개요](<./데이터베이스개요.md>)
+- [클라이언트(mysql monitor)](<./클라이언트(mysql monitor).md>)
