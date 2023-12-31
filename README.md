@@ -1,4 +1,4 @@
-# for_SQL
+# SQL (with. MySQL)
 SQL 코딩테스트, PCSQL 자격증을 위한 SQL 내용정리입니다. with MySQL
 
 <p align="center"><img src="https://github.com/giljihun/for_SQL/assets/75918176/e4c12bad-ba7a-42fd-a583-5751048fb5f8" width="30%">
@@ -8,6 +8,18 @@ SQL 코딩테스트, PCSQL 자격증을 위한 SQL 내용정리입니다. with M
 [mysql]: https://www.inflearn.com/course/mysql-%EA%B0%95%EC%A2%8C
   
 <br></br>    
+
+# 목차 
+**[개념]**
+- [데이터베이스 개요](<./데이터베이스개요.md>)
+- [클라이언트(mysql monitor)란?](<./클라이언트(mysql monitor).md>)
+- [테이블이란?](<./테이블.md>)
+- [데이터 관리(methods)](<./데이터관리.md>)
+
+**[문제]**
+- 추가예정
+  
+<br></br> 
 # mySQL 설치(with M1 and homebrew)
 ***M1 기준으로 본 문서는 작성됨.***
 
@@ -61,7 +73,3 @@ ESCAPE 하는 법 : \q
 
 **return : Bye.**
 
-# 목차 
-
-- [데이터베이스 개요](<./데이터베이스개요.md>)
-- [클라이언트(mysql monitor)](<./클라이언트(mysql monitor).md>)
