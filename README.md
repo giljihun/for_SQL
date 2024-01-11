@@ -41,12 +41,7 @@ $ brew install mysql
 $ mysql.server start
 ~~~
 
-4. 기본 설정을 건드려줘야 한다. 아래처럼 입력.
-~~~
-$ mysql.server start
-~~~
-
-5. 아래처럼 기본 설정에 대한 질문이 순서대로 나오는데 입맛대로 설정해준다.
+4. 아래처럼 기본 설정에 대한 질문이 순서대로 나오는데 입맛대로 설정해준다.
 ```
 - 비밀번호 복잡도 검사 과정
 - 비밀번호 입력, 재확인 (루트 암호 설정) 
@@ -58,9 +53,9 @@ $ mysql.server start
 
 완료하면 **All done!** 메시지가 출력됨..//
 
-6. MySQL 사용하기!
+5. MySQL 사용하기!
 ~~~
-$ mysql -u root -p
+$ mysql -u root -p (이후 설정한 비밀번호 입력)
 ~~~
 <img src="usingIMG/image.png" width="80%">
 
